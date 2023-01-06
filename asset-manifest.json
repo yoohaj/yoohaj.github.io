@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yoohaj/hajin-web.git/static/css/main.a3fe332e.css",
+    "main.js": "/yoohaj/hajin-web.git/static/js/main.382ca408.js",
+    "static/js/787.f587e8d5.chunk.js": "/yoohaj/hajin-web.git/static/js/787.f587e8d5.chunk.js",
+    "static/media/logo.svg": "/yoohaj/hajin-web.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yoohaj/hajin-web.git/index.html",
+    "main.a3fe332e.css.map": "/yoohaj/hajin-web.git/static/css/main.a3fe332e.css.map",
+    "main.382ca408.js.map": "/yoohaj/hajin-web.git/static/js/main.382ca408.js.map",
+    "787.f587e8d5.chunk.js.map": "/yoohaj/hajin-web.git/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3fe332e.css",
+    "static/js/main.382ca408.js"
+  ]
+}
